@@ -1,7 +1,9 @@
 Python scripts to convert BLF (CanAnalyzer trace) files to log or csv.
 
 Prerequisites:
+
     - can
+    
     - csv #if converting to csv
     
 Usage
